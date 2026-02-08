@@ -2,6 +2,7 @@
 
 ## Estructura del proyecto
 Esta es la estructura de proyecto seguida:
+```sql
     trabajo_docker/
     │
     ├── backend/
@@ -23,7 +24,7 @@ Esta es la estructura de proyecto seguida:
     ├── .env.example
     ├── .gitignore
     └── README.md
-
+```
 
 ## Explicación de cada servicio (qué hace, puertos, variables de entorno)
 ### Base de datos
